@@ -9,4 +9,4 @@ Masters and Championship tournaments were cancelled due to COVID.
 | 7/18 | 09:00 | The Open     | Ironhorse    | J. Son (+11)  | Major    |
 | 9/19 | 14:00 | Ryder Cup    | The Den      | **Champaign** vs. Peoria | Team     |
 
-(Past result: 2019 2018 2017 2016 2015)
+(Past result: [2019](../2019) 2018 2017 2016 2015)
