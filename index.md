@@ -14,7 +14,7 @@ Welcome to CIKOGA! Established in 2015, the Central Illinois Korean Golfers Asso
 | TBD  | TBD   | The Open       | TBD        | TBD   | Major    |
 | TBD  | TBD   | Presidents Cup | TBD        | TBD   | Team     |
 
-(Past result: [2021](2021) [2020](2020) [2019](2019) 2018 2017 2016 2015)
+(Past result: [2021](2021) [2020](2020) [2019](2019) [2018](2018) [2017](2017) [2016](2016) [2015](2015))
 
  For travel, we'll share duties of car pooling and gas cost based on US GSA rate. Guests and visitors are welcome to join any event at any time but please remember that the space is limited and priority always goes to tour members. 
 
