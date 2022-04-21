@@ -29,7 +29,7 @@
 
 ## Club Eagle
 
-|Name	 | Tournament	  | Course	  | Hole        |
-|------|--------------|-----------|-------------|
-|J. Ko | 2017 US Open	| Scoville	| #18 (PAR 4) |
-|H. Yim| 2015 US Open	| Brookhill	| #6 (PAR 5)  |
+|Year|Name	| Tournament | Course	  | Hole        |
+|----|------|------------|----------|-------------|
+|2017|J. Ko | US Open	   | Scoville	| #18 (PAR 4) |
+|2015|H. Yim| US Open	   | Brookhill| #6 (PAR 5)  |
