@@ -20,6 +20,12 @@
 | 2016	| B. Chung (1)| H. Yim (2)  | H. Yim (3)    | H. Yim (1)   |
 | 2015	| K. Choo (2) | K. Choo (1) | K. Choo (3)   |              |
 
+## Club Champions
+
+|Year |Name	 | Division	  | Club	  |
+|-----|------|------------|---------|
+|2021 |J. Ku | Women     	| Legends	|
+|2021 |H. Yim| Senior   	| U of I	|
 
 ## Club Eagle
 
