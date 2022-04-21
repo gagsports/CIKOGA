@@ -25,5 +25,5 @@
 
 |Name	 | Tournament	  | Course	  | Hole        |
 |------|--------------|-----------|-------------|
-|H. Yim| 2015 US Open	| Brookhill	| #6 (PAR 5)  |
 |J. Ko | 2017 US Open	| Scoville	| #18 (PAR 4) |
+|H. Yim| 2015 US Open	| Brookhill	| #6 (PAR 5)  |
