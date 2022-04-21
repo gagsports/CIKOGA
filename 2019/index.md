@@ -10,4 +10,4 @@
 | 8/17  | 14:00 | The Open     | The Den       | J. Choi (+11) | Major    |
 | 10/12 | 13:00 | Presidents Cup | Metamora Fields | **Champaign** vs. Peoria | Team     |
 
-(Past result: 2018 2017 2016 2015)
+(Past result: [2018](../2018) [2017](../2017) [2016](../2016) [2015](../2015))
