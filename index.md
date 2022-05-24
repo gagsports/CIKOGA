@@ -9,7 +9,7 @@ Welcome to CIKOGA! Established in 2015, the Central Illinois Korean Golfers Asso
 | Date | Time  | Tournament     | Course     | Entry | Category |
 |------|-------|----------------|------------|-------|----------|
 | 4/23 | 12:30 | Masters        | Turtle Run | $35   | Major    |
-| TBD  | TBD   | Championship   | TBD        | TBD   | Major    |
+| 5/28 | 14:00 | Championship   | The Den    | $40   | Major    |
 | TBD  | TBD   | US Open        | TBD        | TBD   | Major    |
 | TBD  | TBD   | The Open       | TBD        | TBD   | Major    |
 | TBD  | TBD   | Presidents Cup | TBD        | TBD   | Team     |
