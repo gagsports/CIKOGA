@@ -12,6 +12,7 @@
 
 | Year	| The Open    | US Open     |  Championship | Masters      |
 |-------|-------------|-------------|---------------|--------------|
+| 2022	|            	|           	| B. Lee (1)	  | B. Chung (6) |
 | 2021	| H. Yim (8)	| S. Park (1)	| J. Shin (1)	  | B. Chung (5) |
 | 2020	| J. Son (2)	| J. Ko (2)   | cancelled	    | cancelled    |
 | 2019	| J. Choi (1)	| K. Choo (4)	| H. Yim (7)	  | H. Yim (6)   |
@@ -29,7 +30,8 @@
 
 ## Club Eagle
 
-|Year|Name	| Tournament | Course	  | Hole        |
-|----|------|------------|----------|-------------|
-|2017|J. Ko | US Open	   | Scoville	| #18 (PAR 4) |
-|2015|H. Yim| US Open	   | Brookhill| #6 (PAR 5)  |
+|Year|Name	| Tournament  | Course	  | Hole        |
+|----|------|-------------|-----------|-------------|
+|2022|H. Yim| Championship| The Den	  | #10 (PAR 5) |
+|2017|J. Ko | US Open	    | Scoville	| #18 (PAR 4) |
+|2015|H. Yim| US Open	    | Brookhill | #06 (PAR 5)  |
