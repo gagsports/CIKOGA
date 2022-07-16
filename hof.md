@@ -12,7 +12,7 @@
 
 | Year	| The Open    | US Open     |  Championship | Masters      |
 |-------|-------------|-------------|---------------|--------------|
-| 2022	|            	|           	| B. Lee (1)	  | B. Chung (6) |
+| 2022	|            	| H. Yim (9) 	| B. Lee (1)	  | B. Chung (6) |
 | 2021	| H. Yim (8)	| S. Park (1)	| J. Shin (1)	  | B. Chung (5) |
 | 2020	| J. Son (2)	| J. Ko (2)   | cancelled	    | cancelled    |
 | 2019	| J. Choi (1)	| K. Choo (4)	| H. Yim (7)	  | H. Yim (6)   |
