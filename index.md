@@ -6,13 +6,14 @@ Welcome to CIKOGA! Established in 2015, the Central Illinois Korean Golfers Asso
   
 ### 2022 Tour Schedule
 
-| Date | Time  | Tournament     | Course     | Entry | Category |
-|------|-------|----------------|------------|-------|----------|
-| 4/23 | 12:30 | Masters        | Turtle Run | $35   | Major    |
-| 5/28 | 14:00 | Championship   | The Den    | $40   | Major    |
-| TBD  | TBD   | US Open        | TBD        | TBD   | Major    |
-| TBD  | TBD   | The Open       | TBD        | TBD   | Major    |
-| TBD  | TBD   | Presidents Cup | TBD        | TBD   | Team     |
+| Date | Time  | Tournament     | Course     | Result   | Category |
+|------|-------|----------------|------------|--------- |----------|
+| 4/23 | 12:30 | Masters        | Turtle Run | B. Chung | Major    |
+| 5/28 | 14:00 | Championship   | The Den    | B. Lee   | Major    |
+| 7/02 | 14:00 | US Open R1     | Red Tail   |          | Major    |
+| 7/03 | 14:00 | US Open R2     | Atkins     | H. Yim   | Major    |
+| TBD  | TBD   | The Open       | TBD        | TBD      | Major    |
+| TBD  | TBD   | Presidents Cup | TBD        | TBD      | Team     |
 
 (Past result: [2021](2021) [2020](2020) [2019](2019) [2018](2018) [2017](2017) [2016](2016) [2015](2015) / [Hall of Fame](hof))
 
