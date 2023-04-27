@@ -11,7 +11,7 @@ Welcome to CIKOGA! Established in 2015, the Central Illinois Korean Golfers Asso
 | 4/08 | 14:00 | Masters        | Red Tail   | B. Chung | Major    |
 | 5/27 | 14:00 | Championship   |            |          | Major    |
 | 6/24 | 14:00 | US Open        |            |          | Major    |
-| 7/29 | 14:30 | The Open       |            |          | Major    |
+| 7/29 | 14:00 | The Open       |            |          | Major    |
 | TBD  | TBD   | Ryder Cup      | TBD        | TBD      | Team     |
 
 (Past result: [2022](2022) [2021](2021) [2020](2020) [2019](2019) [2018](2018) [2017](2017) [2016](2016) [2015](2015) / [Hall of Fame](hof))
