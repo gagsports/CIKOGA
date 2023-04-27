@@ -3,7 +3,7 @@
 ## Major Records & Winners
 
 * Career Grand Slam: B. Chung and H. Yim in 2021
-* Most major wins: 8 by H. Yim
+* Most major wins: 10 by H. Yim
 * Most consecutive major wins: 3 by K. Choo in 2015
 * The lowest singe round record: -2 by B. Chung in 2017 US Open
 * The lowest 36 hole record: Even par by B. Chung in 2017 US Open
