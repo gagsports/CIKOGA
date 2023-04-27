@@ -13,7 +13,7 @@ Welcome to CIKOGA! Established in 2015, the Central Illinois Korean Golfers Asso
 | 7/02 | 14:00 | US Open R1     | Red Tail   |          | Major    |
 | 7/03 | 14:00 | US Open R2     | Atkins     | H. Yim   | Major    |
 | 8/27 | 14:30 | The Open       | Atkins     | H. Yim   | Major    |
-| TBD  | TBD   | Presidents Cup | Kampen     | *CIKOGA* vs. Purdue| Team     |
+| TBD  | TBD   | Presidents Cup | Kampen     | **CIKOGA** vs. Purdue | Team     |
 
 (Past result: [2021](2021) [2020](2020) [2019](2019) [2018](2018) [2017](2017) [2016](2016) [2015](2015) / [Hall of Fame](hof))
 
