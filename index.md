@@ -4,18 +4,17 @@ Welcome to CIKOGA! Established in 2015, the Central Illinois Korean Golfers Asso
 
   If you're interested in joining tour, please submit this online [form](https://docs.google.com/forms/d/e/1FAIpQLSdHvyu-MuOOkt3f6LIAynZAWKKIko3WvSRsnhiOyObXOtwUdw/viewform) or join [Facebook group](https://www.facebook.com/groups/cikoga/). For each tournament, we award prize money to top 3 players. Some members play skins during the tournament.
   
-### 2022 Tour Schedule
+### 2023 Tour Schedule
 
 | Date | Time  | Tournament     | Course     | Result   | Category |
 |------|-------|----------------|------------|--------- |----------|
-| 4/23 | 12:30 | Masters        | Turtle Run | B. Chung | Major    |
-| 5/28 | 14:00 | Championship   | The Den    | B. Lee   | Major    |
-| 7/02 | 14:00 | US Open R1     | Red Tail   |          | Major    |
-| 7/03 | 14:00 | US Open R2     | Atkins     | H. Yim   | Major    |
-| 8/27 | 14:30 | The Open       | Atkins     | H. Yim   | Major    |
-| TBD  | TBD   | Presidents Cup | TBD        | TBD      | Team     |
+| 4/08 | 14:00 | Masters        | Red Tail   | B. Chung | Major    |
+| 5/27 | 14:00 | Championship   |            |          | Major    |
+| 6/24 | 14:00 | US Open        |            |          | Major    |
+| 7/29 | 14:30 | The Open       |            |          | Major    |
+| TBD  | TBD   | Ryder Cup      | TBD        | TBD      | Team     |
 
-(Past result: [2021](2021) [2020](2020) [2019](2019) [2018](2018) [2017](2017) [2016](2016) [2015](2015) / [Hall of Fame](hof))
+(Past result: [2022](2022) [2021](2021) [2020](2020) [2019](2019) [2018](2018) [2017](2017) [2016](2016) [2015](2015) / [Hall of Fame](hof))
 
  For travel, we'll share duties of car pooling and gas cost based on US GSA rate. Guests and visitors are welcome to join any event at any time but please remember that the space is limited and priority always goes to tour members. 
 
