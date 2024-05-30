@@ -15,7 +15,7 @@ Join the fun today!
 | Date | Time  | Tournament     | Course     | Result   | Category |
 |------|-------|----------------|------------|--------- |----------|
 | 4/08 | 14:00 | Masters        | Red Tail   | B. Chung | Major    |
-| 5/27 | 14:00 | Championship   |            |          | Major    |
+| 5/27 | 14:00 | Championship   | Red Tail   | H. Yim   | Major    |
 | 6/24 | 14:00 | US Open        | Turtle Run | H. Yim   | Major    |
 | 7/29 | 14:00 | The Open       | Atkins     | H. Yim   | Major    |
 | 10/21| 14:00 | Ryder Cup      | Turtle Run | CIKOGA   | Team     |
