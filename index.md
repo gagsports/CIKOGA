@@ -2,19 +2,19 @@
 
 Welcome to CIKOGA! Established in 2015, the Central Illinois Korean Golfers Association (CIKOGA) Tour has evolved into a premiere golf experience.  The CIKOGA Tour offers Korean golfers at every ability level the chance to experience open competition golf at the highest level.  Take your game to new heights this season and make friends while traversing some of the best golf layouts in Midwest.  Join the fun today!
 
-  If you're interested in joining tour, please submit this online [form](https://docs.google.com/forms/d/e/1FAIpQLSdHvyu-MuOOkt3f6LIAynZAWKKIko3WvSRsnhiOyObXOtwUdw/viewform) or join [Facebook group](https://www.facebook.com/groups/cikoga/). For each tournament, we award prize money to top 3 players. Some members play skins during the tournament.
+  If you're interested in joining tour, please join [Facebook group](https://www.facebook.com/groups/cikoga/). For each tournament, we award prize money to top 3 players. Some members play skins during the tournament.
   
 ### 2023 Tour Schedule
 
 | Date | Time  | Tournament     | Course     | Result   | Category |
 |------|-------|----------------|------------|--------- |----------|
-| 4/08 | 14:00 | Masters        | Red Tail   | B. Chung | Major    |
-| 5/27 | 14:00 | Championship   |            |          | Major    |
-| 6/24 | 14:00 | US Open        | Turtle Run | H. Yim   | Major    |
-| 7/29 | 14:00 | The Open       | Atkins     | H. Yim   | Major    |
-| 10/21| 14:00 | Ryder Cup      | Turtle Run | CIKOGA   | Team     |
+| 4/13 | 14:00 | Masters        | The Den    | S. Jung  | Major    |
+| 5/18 | 14:00 | Championship   | Red Tail   | H. Yim   | Major    |
+| 6/17 | 14:00 | US Open        | TBD |  TBD  | Major    |
+| 7/20 | 14:00 | The Open       | TBD |  TBD  | Major    |
+| 9/28 | 14:00 | President Cup  | TBD |  TBD  | Team     |
 
-(Past result: [2022](2022) [2021](2021) [2020](2020) [2019](2019) [2018](2018) [2017](2017) [2016](2016) [2015](2015) / [Hall of Fame](hof))
+(Past result: [2023](2023) [2022](2022) [2021](2021) [2020](2020) [2019](2019) [2018](2018) [2017](2017) [2016](2016) [2015](2015) / [Hall of Fame](hof))
 
  For travel, we'll share duties of car pooling and gas cost based on US GSA rate. Guests and visitors are welcome to join any event at any time but please remember that the space is limited and priority always goes to tour members. 
 
