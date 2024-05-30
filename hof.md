@@ -12,7 +12,8 @@
 
 | Year	| The Open    | US Open     |  Championship | Masters      |
 |-------|-------------|-------------|---------------|--------------|
-| 2023  |             |             |               | B. Chung (7) |
+| 2024  |             |             | H. Yim (14)   | S. Jung (1)  |
+| 2023  | H. Yim (13) | H. Yim (12) | H. YIm (11)   | B. Chung (7) |
 | 2022	| H. Yim (10) | H. Yim (9) 	| B. Lee (1)	  | B. Chung (6) |
 | 2021	| H. Yim (8)	| S. Park (1)	| J. Shin (1)	  | B. Chung (5) |
 | 2020	| J. Son (2)	| J. Ko (2)   | cancelled	    | cancelled    |
@@ -26,6 +27,7 @@
 
 |Year |Name	 | Division	  | Club	  |
 |-----|------|------------|---------|
+|2023 |H. Yim| Senior     | U of I  |
 |2021 |J. Ku | Women     	| Legends	|
 |2021 |H. Yim| Senior   	| U of I	|
 
