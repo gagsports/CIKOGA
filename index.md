@@ -11,7 +11,7 @@ Welcome to CIKOGA! Established in 2015, the Central Illinois Korean Golfers Asso
 | 4/13 | 14:00 | Masters        | The Den    | S. Jung  | Major    |
 | 5/18 | 14:00 | Championship   | Red Tail   | H. Yim   | Major    |
 | 6/17 | 14:00 | US Open        | TBD |  TBD  | Major    |
-| 7/20 | 14:00 | The Open       | TBD |  TBD  | Major    |
+| 8/03 | 14:00 | The Open       | Atkins |  S. Jung  | Major    |
 | 9/28 | 14:00 | President Cup  | TBD |  TBD  | Team     |
 
 (Past result: [2023](2023) [2022](2022) [2021](2021) [2020](2020) [2019](2019) [2018](2018) [2017](2017) [2016](2016) [2015](2015) / [Hall of Fame](hof))
