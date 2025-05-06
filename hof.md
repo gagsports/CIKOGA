@@ -12,7 +12,8 @@
 
 | Year	| The Open    | US Open     |  Championship | Masters      |
 |-------|-------------|-------------|---------------|--------------|
-| 2024  | S. Jung (2) |             | H. Yim (14)   | S. Jung (1)  |
+| 2025  |             |             |               | S. Jung (3)  |
+| 2024  | S. Jung (2) | B. Lee (2)  | H. Yim (14)   | S. Jung (1)  |
 | 2023  | H. Yim (13) | H. Yim (12) | H. YIm (11)   | B. Chung (7) |
 | 2022	| H. Yim (10) | H. Yim (9) 	| B. Lee (1)	  | B. Chung (6) |
 | 2021	| H. Yim (8)	| S. Park (1)	| J. Shin (1)	  | B. Chung (5) |
