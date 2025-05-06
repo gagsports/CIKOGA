@@ -4,12 +4,12 @@ Welcome to CIKOGA! Established in 2015, the Central Illinois Korean Golfers Asso
 
   If you're interested in joining tour, please join [Facebook group](https://www.facebook.com/groups/cikoga/). For each tournament, we award prize money to top 3 players. Some members play skins during the tournament.
   
-### 2024 Tour Schedule
+### 2025 Tour Schedule
 
 | Date | Time  | Tournament     | Course     | Result   | Category |
 |------|-------|----------------|------------|--------- |----------|
 | 4/12 | 14:00 | Masters        | Atkins    | S. Jung  | Major    |
-| 5/18 | 14:00 | Championship   | TBD   | TBD   | Major    |
+| 5/10 | 14:00 | Championship   | Turtle Run   | TBD   | Major    |
 | 6/17 | 14:00 | US Open        | TBD |  TBD  | Major    |
 | 8/03 | 14:00 | The Open       | TBD |  TBD  | Major    |
 | 9/28 | 14:00 | Ryder Cup  | TBD |  TBD  | Team     |
