@@ -10,7 +10,7 @@ Welcome to CIKOGA! Established in 2015, the Central Illinois Korean Golfers Asso
 |------|-------|----------------|------------|--------- |----------|
 | 4/11 | 14:00 | Masters        | Atkins    | H. Yim  | Major    |
 | 5/09 | 14:00 | Championship   | Piper Glen   | B. Lee   | Major    |
-| 6/20 | 14:00 | US Open        | Turtle Run |   | Major    |
+| 6/20 | 14:00 | US Open        | Turtle Run | TBD  | Major    |
 | 7/18 | 14:00 | The Open       | TBD |   TBD  | Major    |
 | 9/26 | 14:00 | Ryder Cup  | TBD |  TBD  | Team     |
 
