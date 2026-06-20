@@ -4,7 +4,7 @@ Welcome to CIKOGA! Established in 2015, the Central Illinois Korean Golfers Asso
 
   If you're interested in joining tour, please join [Facebook group](https://www.facebook.com/groups/cikoga/). For each tournament, we award prize money to top 3 players. Some members play skins during the tournament.
   
-### 2025 Tour Schedule
+### 2026 Tour Schedule
 
 | Date | Time  | Tournament     | Course     | Result   | Category |
 |------|-------|----------------|------------|--------- |----------|
