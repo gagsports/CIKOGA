@@ -28,7 +28,7 @@
 
 |Year |Name	 | Division	  | Club	    |
 |-----|------|------------|-----------|
-|2025 |M. Wu | Senor      | U of I    |
+|2026 |M. Wu | Senor      | U of I    |
 |2023 |H. Yim| Senior     | U of I    |
 |2023 |M. Wu | Senior     | Twin City |
 |2021 |J. Ku | Women     	| Legends	  |
