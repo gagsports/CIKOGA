@@ -3,16 +3,17 @@
 ## Major Records & Winners
 
 * Career Grand Slam: B. Chung and H. Yim in 2021
-* Most major wins: 10 by H. Yim
-* Most consecutive major wins: 3 by K. Choo in 2015
+* Most major wins: 17 by H. Yim
+* Most consecutive major wins: 3 by K. Choo in 2015 and S. Jung in 2025
 * The lowest singe round record: -2 by B. Chung in 2017 US Open
 * The lowest 36 hole record: Even par by B. Chung in 2017 US Open
 * The youngest major winner: J. Park in 2017 The Open at the age of 25
-* The oldest major winner: J. Ko (2020 US Open) and K. Choo (2019 US Open) at the age of 58
+* The oldest major winner: H. Yim (2026 The Open) at the age of 61
 
 | Year	| The Open    | US Open     |  Championship | Masters      |
 |-------|-------------|-------------|---------------|--------------|
-| 2025  |             |             |               | S. Jung (3)  |
+| 2026  | H. Yim (17) | H. Yim (16) | B. Lee (3)    | H. Yim (15)  |
+| 2025  | L. Lu (1)   | S. Jung (5) | S. Jung (4)   | S. Jung (3)  |
 | 2024  | S. Jung (2) | B. Lee (2)  | H. Yim (14)   | S. Jung (1)  |
 | 2023  | H. Yim (13) | H. Yim (12) | H. YIm (11)   | B. Chung (7) |
 | 2022	| H. Yim (10) | H. Yim (9) 	| B. Lee (1)	  | B. Chung (6) |
@@ -28,7 +29,7 @@
 
 |Year |Name	 | Division	  | Club	    |
 |-----|------|------------|-----------|
-|2026 |M. Wu | Senor      | U of I    |
+|2026 |M. Wu | Senior     | U of I    |
 |2023 |H. Yim| Senior     | U of I    |
 |2023 |M. Wu | Senior     | Twin City |
 |2021 |J. Ku | Women     	| Legends	  |
